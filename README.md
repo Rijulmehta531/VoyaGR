@@ -1,10 +1,8 @@
 # VoyaGr
 
-A new Flutter project.
+A smart budget tracking travel app that takes care of a lot of things.
 
-## Getting Started
 
-FlutterFlow projects are built to run on the Flutter _stable_ release.
 
 ### IMPORTANT:
 
