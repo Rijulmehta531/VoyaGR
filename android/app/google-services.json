@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "317517049086",
+    "project_id": "voyagr-f80bb",
+    "storage_bucket": "voyagr-f80bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317517049086:android:17fd7ff83ca6afd50649af",
+        "android_client_info": {
+          "package_name": "com.mycompany.voyagr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317517049086-n9lc9qr6b6903segaddpmrob7rrlbv4b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.voyagr",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "317517049086-fus4h1d57pifefaut0kcq3mjnhtbn2la.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbxDL7IYf1D0LTtCTAGqF2XfYRx9g23lk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317517049086-el385iolj87ugmobtfcnkud04535531a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "317517049086-85d14nkq6iftiqh4b3313sutiprpl8eb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.voyagr"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
