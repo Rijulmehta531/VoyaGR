@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>317517049086-85d14nkq6iftiqh4b3313sutiprpl8eb.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.317517049086-85d14nkq6iftiqh4b3313sutiprpl8eb</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>317517049086-n9lc9qr6b6903segaddpmrob7rrlbv4b.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDDxndZmHBw9T2m-zhiiHPkHtjm92bYBIY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>317517049086</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.voyagr</string>
+	<key>PROJECT_ID</key>
+	<string>voyagr-f80bb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>voyagr-f80bb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:317517049086:ios:ac210132283b51670649af</string>
+</dict>
+</plist>
